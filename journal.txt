@@ -1,0 +1,80 @@
+*2013.05.24 09:03:24 css images links
+http://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/
+http://www.w3schools.com/css/css_link.asp
+https://www.google.com/search?q=make+svg+lighter&aq=f&oq=make+svg+lighter&aqs=chrome.0.57.5094j0&sourceid=chrome&ie=UTF-8#gs_rn=14&gs_ri=psy-ab&gs_mss=css%20image%20ha&tok=v61FQYcoPVJwZhCC-Iuk6A&pq=css%20remove%20underline%20from%20link&cp=13&gs_id=30&xhr=t&q=css+image+half+size&es_nrs=true&pf=p&sclient=psy-ab&oq=css+image+hal&gs_l=&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.47008514,d.aWc&fp=8772e293f02d953a&biw=1016&bih=652
+http://stackoverflow.com/questions/15003649/setting-the-50-of-original-picture-width-and-height-using-css?lq=1
+http://stackoverflow.com/questions/8397049/css-image-resize-percentage-of-itself
+
+
+*2013.05.24 08:34:43 pyside wxwindows links
+https://www.google.com/search?q=wxpython+vs+pyside&aq=2&oq=wxpython+vs&aqs=chrome.3.57j0l3j62.7182j0&sourceid=chrome&ie=UTF-8#q=wxpython+vs+pyside&source=lnt&tbs=qdr:y&sa=X&ei=7eqbUYSMB8KRygGdn4Eo&ved=0CB4QpwUoBQ&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&fp=258a3f27d23f40ad&biw=1089&bih=652
+http://qt-project.org/wiki/Category:LanguageBindings::PySide
+http://qt-project.org/wiki/Get-PySide
+http://qt-project.org/wiki/PySide_Binaries_MacOSX
+http://qt-project.org/wiki/PySide_Binaries_Windows
+http://wiki.wxpython.org/ComparingWxPythonAndPyQt
+http://wiki.wxpython.org/PySide
+http://www.blog.pythonlibrary.org/2013/04/10/pyside-connecting-multiple-widgets-to-the-same-slot/
+https://www.google.com/search?q=pyside+file+select+dialog&aq=2&oq=pyside+file+&aqs=chrome.3.57j0l3j62l2.6683j0&sourceid=chrome&ie=UTF-8#hl=en&gs_rn=14&gs_ri=psy-ab&tok=oaLmnNFicDIIIrFVJJZ5kg&pq=pyside%20file%20select%20dialog&cp=11&gs_id=3&xhr=t&q=pyside+file+dialog&es_nrs=true&pf=p&sclient=psy-ab&oq=pyside+filet+dialog&gs_l=&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&fp=258a3f27d23f40ad&biw=1089&bih=652
+http://www.blog.pythonlibrary.org/2013/04/16/pyside-standard-dialogs-and-message-boxes/
+http://srinikom.github.io/pyside-docs/PySide/QtGui/QFileDialog.html
+http://qt.gitorious.org/pyside/pyside-examples/blobs/e933e4e258006d200599abe254f9a1155b2a3156/examples/dialogs/standarddialogs.py
+http://zetcode.com/gui/pysidetutorial/dialogs/
+http://stackoverflow.com/questions/555705/character-translation-using-python-like-the-tr-command
+https://www.google.com/search?q=pyside+horizontal+layout&aq=2&oq=pyside+hori&aqs=chrome.3.57j0l3j62l2.5583j0&sourceid=chrome&ie=UTF-8#hl=en&sclient=psy-ab&q=pyside+long+running+process&oq=pyside+long+running+process&gs_l=serp.3..33i21.1837299.1846934.4.1847046.27.26.0.1.1.0.253.3040.6j19j1.26.0...0.0...1c.1.14.psy-ab.d2sLEg-eSZQ&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.46751780,d.aWc&fp=258a3f27d23f40ad&biw=1089&bih=652
+http://srinikom.github.io/pyside-docs/PySide/QtCore/QCoreApplication.html
+http://zetcode.com/gui/pysidetutorial/firstprograms/
+http://stackoverflow.com/questions/11681984/how-to-get-text-from-lineedit-in-pyside
+http://stackoverflow.com/questions/5137497/find-current-directory-and-files-directory
+http://zetcode.com/gui/pysidetutorial/layoutmanagement/
+file://localhost/c/shared/sample/IMG_5138.html
+view-source:file://localhost/c/shared/sample/index.html
+file://localhost/c/shared/sample/IMG_5138.html
+http://cbrandt.com/
+http://cbrandt.com/2013-04-09_New_Well_Pump/
+http://cbrandt.com/2013-05-11_Yosemite/
+view-source:http://cbrandt.com/
+
+
+*2013.05.24 08:23:16 
+    <div id="centerwrapper">
+      <div id="content">
+	${body}
+      </div>
+    </div>
+
+
+*2013.05.24 08:12:56 
+        #welcome = QtGui.QLabel("CBRANDT.COM Site Generator.")
+        #grid.addWidget(welcome, 1, 0)
+
+
+
+*2013.05.23 22:06:35 
+    //http://stackoverflow.com/questions/15003649/setting-the-50-of-original-picture-width-and-height-using-css?lq=1
+    -webkit-transform: scale(0.5); /* Saf3.1+, Chrome */
+    -moz-transform: scale(0.5); /* FF3.5+ */
+    -ms-transform: scale(0.5); /* IE9 */
+    -o-transform: scale(0.5); /* Opera 10.5+ */
+    transform: scale(0.5);
+    /* IE6–IE9 */
+    filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.9999619230641713, M12=-0.008726535498373935, M21=0.008726535498373935, M22=0.9999619230641713,SizingMethod='auto expand');
+
+    //this will set the width to be 50% of the containing element...
+    //not what we want here:
+    //width: 50%;
+
+
+*2013.05.23 
+
+      <%include file="footer.mako" />
+
+* -------- * <br />
+
+---> 
+      --->
+      <--- 
+      <---
+
+      ^^^^^^^
+

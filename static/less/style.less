@@ -1,0 +1,83 @@
+@import 'normalize.less';
+@import 'grid.less';
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+//////////
+// GRID //
+//////////
+
+// Specify the number of columns and set column and gutter widths
+@columns: 12;
+@column-width: 60;
+@gutter-width: 20;
+
+// Remove the definition below for a pixel-based layout
+@total-width: 100%;
+
+////////////
+// LAYOUT //
+////////////
+
+// header
+header#top {
+	margin-bottom: 1em;
+}
+
+// main column & sidebar
+#maincolumn {
+	.column(10);
+}
+#sidebar {
+	.column(2);
+}
+
+@media screen and (max-width: 720px) {
+	#maincolumn,
+	#sidebar {
+		.column(12);
+		margin-bottom: 1em;
+	}
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.full_res {
+    text-decoration: underline;
+}
+
+/* ----- IMAGES ----- */
+.image{
+    float: left;
+}
+
+img{
+   border: 0px; 
+   margin: 2px;
+}
+
+img a{
+    text-decoration: none;
+}
+
+.small {
+    width: 200px;
+}
+
+.tiny {
+    width: 100px;
+}
+
+.pic {
+}

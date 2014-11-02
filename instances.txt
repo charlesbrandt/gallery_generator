@@ -1,0 +1,53 @@
+*2014.11.02 08:44:08 core
+/c/gallery_generator/instances.txt
+/c/gallery_generator/launch.sh
+/c/gallery_generator/generate.py
+
+*2014.11.02 08:43:43 todo
+/c/gallery_generator/instances.txt
+/c/gallery_generator/launch.sh
+/c/gallery_generator/todo.txt
+/c/gallery_generator/journal.txt
+/c/gallery_generator/README.txt
+
+*2013.05.27 13:03:42 code
+/c/shared/site_generator/instances.txt
+/c/shared/site_generator/launch.sh
+
+*2013.05.27 13:03:42 todo
+/c/shared/site_generator/instances.txt
+/c/shared/site_generator/launch.sh
+/c/shared/site_generator/journal.txt
+/c/shared/site_generator/todo.txt
+
+*2013.05.24 10:44:16 core
+/c/shared/site_generator/instances.txt
+/c/technical/python/cxfreeze.txt
+/c/shared/site_generator/README.txt
+/c/shared/site_generator/generate.py
+
+*2013.05.24 10:43:27 everything
+/c/shared/site_generator/instances.txt
+/c/shared/site_generator/README.txt
+/c/shared/cxfreeze.txt
+/c/shared/site_generator/journal.txt
+/c/shared/site_generator/static/less/style.less
+/c/shared/site_generator/generator.py
+/c/shared/sample/IMG_5136.html
+/c/shared/site_generator/templates/image.mako
+/c/shared/sample/less/style.less
+/c/shared/site_generator/templates/site.mako
+/c/shared/site_generator/moments/path.py
+/c/shared/sample-med/index.html
+/c/shared/sample/css/style.css
+/c/shared/site_generator/templates/image_list.mako
+/c/shared/sample/index.html
+/c/shared/site_generator/generate.py
+/c/technical/python/cxfreeze.txt
+
+*2013.05.22 18:19:38 
+/c/shared/site_generator/instances.txt
+/c/technical/python/cxfreeze.txt
+/c/shared/site_generator/main.py
+
+
