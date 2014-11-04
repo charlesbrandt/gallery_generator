@@ -1,3 +1,7 @@
+*2014.11.02 12:33:52
+extracted this repository from:
+/media/charles/DATA/2014/shared-directory_for_sharing_data_with_virtual_box_VMs-from_mbpr-20141002/
+
 *2013.05.24 09:03:24 css images links
 http://www.html5rocks.com/en/tutorials/svg/mobile_fundamentals/
 http://www.w3schools.com/css/css_link.asp
