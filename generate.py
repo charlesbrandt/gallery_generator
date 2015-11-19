@@ -152,6 +152,7 @@ class Generator(QtGui.QWidget):
 
         #scan for all images
         root_dir.scan_filetypes()
+        root_dir.sort_by_path()
 
         images = []
         if len(root_dir.images):
